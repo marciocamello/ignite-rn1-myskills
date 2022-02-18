@@ -1,5 +1,5 @@
 # RocketSeat Ignite
 
-## ReactNative - Fundamentos
+## ReactNative - Foundations
 
 ### MySkills Project

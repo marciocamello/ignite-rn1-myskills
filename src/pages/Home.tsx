@@ -56,9 +56,9 @@ export function Home() {
         <SafeAreaView
             style={styles.container}
         >
-            <Text style={styles.title}>Welcome, Marcio</Text>
+            <Text style={styles.title} testID="welcome">Welcome, Marcio</Text>
 
-            <Text style={styles.greetins}>
+            <Text style={styles.greeting}>
                 {greeting}
             </Text>
 
@@ -118,7 +118,7 @@ const styles = StyleSheet.create({
         marginTop: 30,
         borderRadius: 7
     },
-    greetins: {
+    greeting: {
         color: "#fff",
     }
 });

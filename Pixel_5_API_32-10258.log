@@ -355,3 +355,82 @@ INFO    | Critical: Failed to load https://maps.googleapis.com/maps/api/mapsjs/g
 
 INFO    | Critical: Failed to load https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true: The 'Access-Control-Allow-Origin' header has a value 'qrc://' that is not equal to the supplied origin. Origin 'qrc://' is therefore not allowed access. (qrc:/html/js/location-mock-web-channel.js:0, (null))
 
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    :    
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    :    
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    :    
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    :    
+WARNING | Defaulting fps to 24 fps
+ERROR   | ColorBuffer::create get gl error 0x502 before creating textures
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    :    
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    :    
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    :    
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    ß  
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    :    
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    :    
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    :    
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    :    
+VERBOSE | Unexpected ether type. Dump frame: Data (Data)
+    :    
+VERBOSE | Dataset not loaded. Create dataset instance now.
+VERBOSE | Load dataset!
+VERBOSE | Find decode info
+VERBOSE | Dataset not loaded. Create dataset instance now.
+VERBOSE | Load dataset!
+VERBOSE | Find decode info
+VERBOSE | Dataset not loaded. Create dataset instance now.
+VERBOSE | Load dataset!
+VERBOSE | Find decode info
+VERBOSE | Dataset not loaded. Create dataset instance now.
+VERBOSE | Load dataset!
+VERBOSE | Find decode info
+VERBOSE | Dataset not loaded. Create dataset instance now.
+VERBOSE | Load dataset!
+VERBOSE | Find decode info
+INFO    | Dropping metrics, nothing to report.
+VERBOSE | Saving state on exit with session uptime 3988864 ms
+INFO    | Closing down rootcanal.
+INFO    | Android emulator version 31.2.8.0 (build_id 8143646) (CL:N/A)
+INFO    | Found AVD name 'Pixel_5_API_32'
+INFO    | Found AVD target architecture: x86_64
+INFO    | argv[0]: 'E:\Development\Android\Sdk\emulator\emulator.EXE'; program directory: 'E:\Development\Android\Sdk\emulator'
+VERBOSE |  Found directory: E:\Development\Android\Sdk\system-images\android-32\google_apis\x86_64\
+INFO    | emuDirName: 'E:\Development\Android\Sdk\emulator'
+INFO    | try dir E:\Development\Android\Sdk\emulator
+INFO    | Trying emulator path 'E:\Development\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe'
+INFO    | Found target-specific 64-bit emulator binary: E:\Development\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe
+INFO    | Adding library search path: 'E:\Development\Android\Sdk\emulator\lib64'
+INFO    | Adding library search path: 'E:\Development\Android\Sdk\emulator\lib64\gles_swiftshader'
+VERBOSE | Adding library search path for Qt: 'E:\Development\Android\Sdk\emulator\lib64\qt\lib'
+VERBOSE | Silencing all qWarning(); use qCWarning(...) instead: QT_LOGGING_RULES=default.warning=false
+VERBOSE | Setting Qt plugin search path: QT_QPA_PLATFORM_PLUGIN_PATH=E:\Development\Android\Sdk\emulator\lib64\qt\plugins
+VERBOSE | Setting Qt to use software OpenGL: QT_OPENGL=software
+VERBOSE | Setting QML to use software QtQuick2D: QMLSCENE_DEVICE=softwarecontext
+VERBOSE | Overriding pre-existing bad Qt high dpi settings...
+INFO    | Quoted param: [E:\Development\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe]
+INFO    | Quoted param: [-verbose]
+INFO    | Quoted param: [-no-audio]
+INFO    | Quoted param: [-no-boot-anim]
+INFO    | Quoted param: [-port]
+INFO    | Quoted param: [10258]
+INFO    | Quoted param: [@Pixel_5_API_32]
+VERBOSE | emulator: Running :E:\Development\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe
+VERBOSE | qemu backend: argv[00] = "E:\Development\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe"
+VERBOSE | qemu backend: argv[01] = "-verbose"
+VERBOSE | qemu backend: argv[02] = "-no-audio"
+VERBOSE | qemu backend: argv[03] = "-no-boot-anim"
+VERBOSE | qemu backend: argv[04] = "-port"
+VERBOSE | qemu backend: argv[05] = "10258"
+VERBOSE | qemu backend: argv[06] = "@Pixel_5_API_32"
+VERBOSE | Concatenated backend parameters:  E:\Development\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe -verbose -no-audio -no-boot-anim -port 10258 @Pixel_5_API_32

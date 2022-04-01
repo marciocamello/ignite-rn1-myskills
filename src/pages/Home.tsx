@@ -27,11 +27,11 @@ export function Home() {
         const currentHour = new Date().getHours();
 
         if (currentHour >= 0 && currentHour < 12) {
-            setGreeting('Good Morning');
+            setGreeting('Good Morning.');
         } else if (currentHour >= 12 && currentHour < 18) {
-            setGreeting('Good Afternoon');
+            setGreeting('Good Afternoon.');
         } else {
-            setGreeting('Good Evening');
+            setGreeting('Good Evening.');
         }
 
     }, []);
@@ -56,7 +56,7 @@ export function Home() {
         <SafeAreaView
             style={styles.container}
         >
-            <Text style={styles.title} testID="welcome">Welcome, Marcio</Text>
+            <Text style={styles.title} testID="welcome">Welcome, User</Text>
 
             <Text style={styles.greeting}>
                 {greeting}

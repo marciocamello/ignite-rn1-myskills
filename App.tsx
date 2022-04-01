@@ -9,7 +9,7 @@ import {
 export default function App() {
 
     useEffect(() => {
-        SplashScreen.hide()
+        SplashScreen.hide();
     }, []);
 
     return (
